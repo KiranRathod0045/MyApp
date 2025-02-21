@@ -6,6 +6,6 @@ app.listen(PORT,()=>{
 })
 
 app.get('/',(req,res)=>{
-    res.send('Hello Sir')
+    res.send('Hello AWS')
 })
 
